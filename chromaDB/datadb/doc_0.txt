@@ -1,0 +1,8 @@
+
+    1. Problem Statement
+
+    Traffic authorities face difficulty in confirming the identity of bike riders due to helmets, occlusion, and limited image clarity.
+    Manual identification is slow and prone to human error. 
+    There is a growing need for an automated yet transparent system to estimate whether a rider matches the registered owner, ensuring lawful use of vehicles and improving rule enforcement.
+    ---
+    

@@ -1,0 +1,9 @@
+
+    2. Objectives
+
+    Develop a probabilistic AI model to estimate rider identity based on real-time visual and database information.
+    Provide explainable outputs for human verification.
+    Ensure complete compliance with data protection and surveillance laws.
+    Enable scalable integration with existing traffic and registration databases.
+    ---
+    

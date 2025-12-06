@@ -1,0 +1,12 @@
+
+    3. Solution Overview:
+
+    The system operates in modular layers:
+    1. Edge Image/Video Capture and Preprocessing.
+    2. Computer Vision for vehicle, rider, and helmet detection.
+    3. Identity Feature Extraction (face, body, clothing, gait).
+    4. Retrieval (RAG) from owner databases and embeddings.
+    5. Fusion & Scoring Module for probabilistic matching.
+    6. LLM Reporting Layer for interpretability.
+    7. Dashboard for Human Verification.
+    8. Logging, Governance, and Audit Trail.
